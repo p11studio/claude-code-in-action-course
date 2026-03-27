@@ -31,7 +31,16 @@ modules/
   08-reasoning-modes/
 ```
 
+## Lecciones completadas
+
+| Lección | Tema | Concepto clave | Notas |
+|---------|------|----------------|-------|
+| 1 | Introduction | Qué es Claude Code y para qué sirve | `modules/01-architecture/` |
+| 2 | What is a coding assistant? | Arquitectura de asistentes de código: LLM + herramientas + contexto | `modules/01-architecture/` |
+| 3 | Claude Code in action | Claude combina herramientas (Bash, Edit, Read…) para tareas complejas; extensible con MCP servers | `modules/01-architecture/leccion-03-claude-code-in-action.md` |
+
 ## Notes
 
 - Prerequisites: command-line familiarity, basic Git knowledge
-- Use this CLAUDE.md to give Claude context about what you're working on at any point in the course
+- Al terminar cada lección, se actualiza la tabla de arriba con el concepto clave
+- Los archivos `.md` en cada carpeta de módulo contienen el resumen detallado de cada lección
