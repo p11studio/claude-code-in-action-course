@@ -38,6 +38,8 @@ modules/
 | 1 | Introduction | Qué es Claude Code y para qué sirve | `modules/01-architecture/` |
 | 2 | What is a coding assistant? | Arquitectura de asistentes de código: LLM + herramientas + contexto | `modules/01-architecture/` |
 | 3 | Claude Code in action | Claude combina herramientas (Bash, Edit, Read…) para tareas complejas; extensible con MCP servers | `modules/01-architecture/leccion-03-claude-code-in-action.md` |
+| 4 | Claude Code setup | Instalación via Homebrew o curl — omitida por ser setup básico | — |
+| 5 | Project setup | App uigen en `projects/uigen/`; setup con npm; API key en `.env` (nunca a git) | `modules/01-architecture/leccion-05-project-setup.md` |
 
 ## Notes
 
