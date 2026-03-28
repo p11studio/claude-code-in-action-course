@@ -21,6 +21,7 @@ This repo is a hands-on workspace for following the [Claude Code in Action](http
 | 3 | What is Claude Code? | Claude Code in action | Claude combina herramientas para tareas complejas; extensible con MCP servers | `modules/01-what-is-claude-code/leccion-03-claude-code-in-action.md` |
 | 4 | Getting hands on | Claude Code setup | Instalación via Homebrew o curl — omitida por ser setup básico | — |
 | 5 | Getting hands on | Project setup | App uigen en `projects/uigen/`; API key en `.env` (nunca a git) | `modules/02-getting-hands-on/leccion-05-project-setup.md` |
+| 6 | Getting hands on | Adding context | `/init` genera CLAUDE.md; 3 niveles de CLAUDE.md; `@archivo` para contexto específico; `#` para memory mode | `modules/02-getting-hands-on/leccion-06-adding-context.md` |
 
 ## Proyecto de práctica
 
