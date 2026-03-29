@@ -24,6 +24,7 @@ This repo is a hands-on workspace for following the [Claude Code in Action](http
 | 6 | Getting hands on | Adding context | `/init` genera CLAUDE.md; 3 niveles de CLAUDE.md; `@archivo` para contexto específico; `#` para memory mode | `modules/02-getting-hands-on/leccion-06-adding-context.md` |
 | 7 | Getting hands on | Making changes | Screenshots con `Ctrl+V`; Planning Mode (`Shift+Tab` x2); Thinking Modes (`think` → `ultrathink`) | `modules/02-getting-hands-on/leccion-07-making-changes.md` |
 | 8 | Getting hands on | Controlling context | `Esc` interrumpe; `Esc`+`#` corrige errores repetitivos; `Esc`x2 rewind; `/compact` y `/clear` | `modules/02-getting-hands-on/leccion-08-controlling-context.md` |
+| 9 | Getting hands on | Custom commands | `.claude/commands/*.md`; `$ARGUMENTS` para parámetros; Claude pregunta si el argumento está vacío | `modules/02-getting-hands-on/leccion-09-custom-commands.md` |
 
 ## Proyecto de práctica
 
