@@ -23,6 +23,7 @@ This repo is a hands-on workspace for following the [Claude Code in Action](http
 | 5 | Getting hands on | Project setup | App uigen en `projects/uigen/`; API key en `.env` (nunca a git) | `modules/02-getting-hands-on/leccion-05-project-setup.md` |
 | 6 | Getting hands on | Adding context | `/init` genera CLAUDE.md; 3 niveles de CLAUDE.md; `@archivo` para contexto específico; `#` para memory mode | `modules/02-getting-hands-on/leccion-06-adding-context.md` |
 | 7 | Getting hands on | Making changes | Screenshots con `Ctrl+V`; Planning Mode (`Shift+Tab` x2); Thinking Modes (`think` → `ultrathink`) | `modules/02-getting-hands-on/leccion-07-making-changes.md` |
+| 8 | Getting hands on | Controlling context | `Esc` interrumpe; `Esc`+`#` corrige errores repetitivos; `Esc`x2 rewind; `/compact` y `/clear` | `modules/02-getting-hands-on/leccion-08-controlling-context.md` |
 
 ## Proyecto de práctica
 
