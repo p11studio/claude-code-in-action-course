@@ -31,17 +31,17 @@ El video muestra un caso de uso con el proyecto `uigen` donde Claude Code mejora
 
 **El usuario le pide a Claude Code:**
 ```
-Your goal is to improve the component generation prompt at
-@src/lib/prompts/generation.tsx. Here's how:
-
-1. Open a browser and navigate to localhost:3000
-2. Request a basic component to be generated
-3. Review the generated component and its source code
-4. Identify areas for improvement
-5. Update the prompt to produce better components going forward.
-
-For now, only evaluate visual styling aspects. We don't want
-components generated that look like typical tailwindcss components —
+Your goal is to improve the compmonent generation prompt at
+@src/lib/prompts/generation.tsx . Here's how:\
+\
+1. Open a browser and navigate to localhost:3000\
+2. Request a basic component to be generated\
+3. Review the generated component and its source code\
+4. Identify areas for improvement\
+5. Update the prompt to produce better components going forward.\
+\
+FOr now, only evaluate visual styling aspects. We don't want
+components generated that look like typical tailwindcss components -
 we want something more original.
 ```
 
