@@ -25,6 +25,7 @@ This repo is a hands-on workspace for following the [Claude Code in Action](http
 | 7 | Getting hands on | Making changes | Screenshots con `Ctrl+V`; Planning Mode (`Shift+Tab` x2); Thinking Modes (`think` → `ultrathink`) | `modules/02-getting-hands-on/leccion-07-making-changes.md` |
 | 8 | Getting hands on | Controlling context | `Esc` interrumpe; `Esc`+`#` corrige errores repetitivos; `Esc`x2 rewind; `/compact` y `/clear` | `modules/02-getting-hands-on/leccion-08-controlling-context.md` |
 | 9 | Getting hands on | Custom commands | `.claude/commands/*.md`; `$ARGUMENTS` para parámetros; Claude pregunta si el argumento está vacío | `modules/02-getting-hands-on/leccion-09-custom-commands.md` |
+| 10 | Getting hands on | MCP servers with Claude Code | `claude mcp add`; permisos en `settings.local.json`; ejemplo con Playwright mejorando el prompt del sistema | `modules/02-getting-hands-on/leccion-10-mcp-servers.md` |
 
 ## Proyecto de práctica
 
